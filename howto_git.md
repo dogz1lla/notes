@@ -1,3 +1,5 @@
+# Acknowledgement
+This doc is based on this awesome [article](https://kbroman.org/github_tutorial/pages/init.html) by Karl Broman.
 # Creating a new local repo
 ```
 git init
