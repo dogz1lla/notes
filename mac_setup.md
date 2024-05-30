@@ -18,5 +18,5 @@ mapped in alfred.
 4. copy `wsl/.tmux.conf` to `~/.config/tmux/`
 5. install `ripgrep`: [link](https://formulae.brew.sh/formula/ripgrep)
 6. copy contents of `wsl/nvim-kickstart` to `~/.config/nvim/`
-7. clone https://github.com/catppuccin/alacritty into `~/.config/alacritty/`
+7. clone [repo](https://github.com/catppuccin/alacritty) into `~/.config/alacritty/`
 8. copy `alacritty.toml` to `~/.config/alacritty/`
