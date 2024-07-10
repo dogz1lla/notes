@@ -11,7 +11,9 @@ mapped in alfred.
 6. install `rectangle`: [link](https://rectangleapp.com/)
 7. install `alacritty`: [link](https://formulae.brew.sh/cask/alacritty)
 8. install `tmux`: [link](https://formulae.brew.sh/formula/tmux)
-9. install `neovim`: [link](https://formulae.brew.sh/formula/neovim#default)
+9. install `fzf`: [link](https://github.com/junegunn/fzf?tab=readme-ov-file#using-homebrew)
+10. install `neovim`: [link](https://formulae.brew.sh/formula/neovim#default)
+
 ## Configure software
 1. create config folder: `mkdir -p ~/.config`
 2. clone my configs repo: [link](https://github.com/dogz1lla/configs)
