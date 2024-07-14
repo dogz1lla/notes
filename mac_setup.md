@@ -23,3 +23,7 @@ mapped in alfred.
 6. copy contents of `wsl/nvim-kickstart` to `~/.config/nvim/`
 7. clone [repo](https://github.com/catppuccin/alacritty) into `~/.config/alacritty/`
 8. copy `alacritty.toml` to `~/.config/alacritty/`
+
+## Fun stuff
+- install `cmatrix`: [link](https://formulae.brew.sh/formula/cmatrix)
+- install `neofetch`: [link](https://formulae.brew.sh/formula/neofetch)
