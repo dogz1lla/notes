@@ -13,6 +13,8 @@ mapped in alfred.
 8. install `tmux`: [link](https://formulae.brew.sh/formula/tmux)
 9. install `fzf`: [link](https://github.com/junegunn/fzf?tab=readme-ov-file#using-homebrew)
 10. install `neovim`: [link](https://formulae.brew.sh/formula/neovim#default)
+11. install `java` distro: [link](https://clojure.org/guides/install_clojure#java)
+12. install `clojure`: [link](https://clojure.org/guides/install_clojure)
 
 ## Configure software
 1. create config folder: `mkdir -p ~/.config`
