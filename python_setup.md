@@ -38,3 +38,9 @@ to put a .python-version into the dir, or alternatively
 ```
 pyenv activate myproject
 ```
+
+### delete a venv
+```
+pyenv deactivate
+pyenv virtualenv-delete <venv-name>
+```
