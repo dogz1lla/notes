@@ -35,6 +35,7 @@
 - telegram-desktop (pacman)
 - zathura zathura-djvu zathura-pdf-mupdf zathura-ps (pacman)
 - xorg-xrandr (pacman)
+- ntfs-3g (pacman)
 
 # actions
 ## default shell
